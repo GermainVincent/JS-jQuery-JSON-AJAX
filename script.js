@@ -56,7 +56,6 @@ $( document ).ready(function() {
 //    appelAjax('http://swapi.co/api/frefe/');
 
     /*
-     * Observations :frefre renvoie GET http://swapi.co/api/frefe/ 404 (Not Found) donc il n'y as donc pas de donnée
      */
 
     /* section 2 */
